@@ -50,4 +50,4 @@ Here’s a preview of what the website looks like:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/shubham0333/Real-E-State.git
